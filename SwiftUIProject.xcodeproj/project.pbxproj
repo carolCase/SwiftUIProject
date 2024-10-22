@@ -75,6 +75,9 @@
 		6C6ACAE72CC7F0D40060CB2D = {
 			isa = PBXGroup;
 			children = (
+				6C6ACB1F2CC7F2890060CB2D /* Views */,
+				6C6ACB1E2CC7F2770060CB2D /* ViewModel */,
+				6C6ACB1D2CC7F2560060CB2D /* Model */,
 				6C6ACAF22CC7F0D40060CB2D /* SwiftUIProject */,
 				6C6ACB032CC7F0D60060CB2D /* SwiftUIProjectTests */,
 				6C6ACB0D2CC7F0D60060CB2D /* SwiftUIProjectUITests */,
@@ -90,6 +93,27 @@
 				6C6ACB0A2CC7F0D60060CB2D /* SwiftUIProjectUITests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		6C6ACB1D2CC7F2560060CB2D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6C6ACB1E2CC7F2770060CB2D /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		6C6ACB1F2CC7F2890060CB2D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
